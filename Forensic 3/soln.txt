@@ -1,0 +1,3 @@
+use linux command:
+strings disk.img | grep --regexp = DRDO
+Key : DRDO@60_{caught_red-handed}_FLAG!
