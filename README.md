@@ -1,1 +1,1 @@
-Open to all others to share their method for solvinf the problems.
+Others please share their method for solving the problems.
