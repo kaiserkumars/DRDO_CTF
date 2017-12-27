@@ -14,6 +14,8 @@ The flag in this challenge has been hidden in the image. Its an image steganogra
 
 
     $ strings hidden.jpg | grep DRDO
-    Flag: DRDO@60_{435VGDIQY}_FLAG!
+   DRDO@60_{435VGDIQY}_FLAG!
+                <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/"/><rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:title><rdf:Alt xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:li xml:lang="x-default">DRDO@60_{435VGDIQY}_FLAG!</rdf:li></rdf:Alt>
+                        </dc:title><dc:description><rdf:Alt xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:li xml:lang="x-default">DRDO@60_{435VGDIQY}_FLAG!</rdf:li></rdf:Alt>
 
 Therefore, the flag is `DRDO@60_{435VGDIQY}_FLAG!`.
