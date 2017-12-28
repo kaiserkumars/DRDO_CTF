@@ -11,7 +11,7 @@
 ## Write-up
 It's a simple challenge. Use the strings command and grep.
 
->$ strings hidden.jpg | grep DRDO
+>$ strings hidden.jpg | grep DRDO <br/>
 >#!GALF_}7B19J68KG{_06@ODRD
 
 
