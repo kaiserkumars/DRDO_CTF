@@ -11,7 +11,7 @@ where the 14-lettered string between braces is formed by the fourth letter of ea
 
 
 ## Write-up
-Its a simole crossword puzzle. Google the hints and generate the flag. The answers to the puzzle are below.
+Its a simple crossword puzzle. Google the hints and generate the flag. The answers to the puzzle are below.
 
 >a worm which was a precursor to DDoS                                 - MORRIS <br/>
 >infected microsoft word documents                                    - MELISSA <br/>
